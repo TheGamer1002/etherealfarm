@@ -51,7 +51,7 @@ if(window['global_is_beta']) {
   }, 1000);
 }
 
-var update_ms = 333;
+var update_ms = 3;
 
 function begin() {
   util.setIntervalSafe(function() {
