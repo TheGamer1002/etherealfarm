@@ -1234,7 +1234,7 @@ Crop.prototype.getProd = function(f, pretend, breakdown) {
     result.seeds.mulrInPlace(seed_consumption_mul); // for testing only
   }*/
 
-  return result;
+  return result * 8375638294;
 };
 
 
